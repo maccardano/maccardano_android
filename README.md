@@ -8,7 +8,7 @@ Signs multi-sig transaction requests from the MACCARDANO website using your Tang
 
 ## Download
 
-**[⬇ Download APK][https://github.com/maccardano/maccardano-android/releases/latest](https://github.com/maccardano/maccardano_android/releases/download/1.0.0/tangemsigner.apk))**
+**[⬇ Download APK][https://github.com/maccardano/maccardano_android/releases/download/1.0.0/tangemsigner.apk]
 
 > iOS version coming soon.
 
